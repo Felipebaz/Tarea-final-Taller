@@ -1,2 +1,0 @@
-# Entrega Nombre Apellido - NumeroDeEstudiante
-

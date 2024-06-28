@@ -1,4 +1,4 @@
-# Entrega de Nombre Apellido - NroEstudiante
+# Entrega de Felipe Baz - 328217
 
 En este directorio se encuentran los archivos correspondientes a la entrega.
 
